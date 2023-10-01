@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CalendarApp", "CalendarApp\", "{C0511328-4212-4429-B506-B0DEC9C76F9A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53541"
+		Debug.AspNetCompiler.PhysicalPath = "CalendarApp\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53541\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53541"
+		Release.AspNetCompiler.PhysicalPath = "CalendarApp\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53541\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53541"
+		SlnRelativePath = "CalendarApp\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0511328-4212-4429-B506-B0DEC9C76F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0511328-4212-4429-B506-B0DEC9C76F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F363072F-6058-49DD-8F5F-B86467DA6E27}
+	EndGlobalSection
+EndGlobal
